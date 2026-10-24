@@ -138,3 +138,5 @@ struct Amier: Student, Builder, Teacher, Mentor {
 Want to chat w/ me about literally anything (SWE/CS, Swift, Hampton, HBCUs, content creation, life, etc.)? Reach me at the email on [my GitHub profile](https://github.com/amierlorenz) or grab a slot below (be sure to add a line about what you'd like to chat about).
 
 [![Book a 30-min chat](https://img.shields.io/badge/Book_a_30--min_chat-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendar.app.google/cnMKfDF11F9o77mK7)
+
+:wq
