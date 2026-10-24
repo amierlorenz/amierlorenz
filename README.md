@@ -124,7 +124,7 @@ struct Amier: Student, Builder, Teacher, Mentor {
   <tr valign="top">
     <td><a href="https://github.com/amierlorenz/archive-buddy"><b>ArchiveBuddy</b></a></td>
     <td>Photograph your paper journals, then chat with them. Fully on device.<ul><li>Hybrid OCR for handwriting</li><li>RAG over your own pages</li><li>No network, no external APIs</li></ul></td>
-    <td><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift"><br><img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI"><br><img src="https://img.shields.io/badge/Foundation_Models-000000?style=flat-square&logo=swift&logoColor=white" alt="Foundation Models"><br><img src="https://img.shields.io/badge/Vision_OCR-5856D6?style=flat-square&logo=swift&logoColor=white" alt="Vision OCR"></td>
+    <td><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift"><br><img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI"><br><img src="https://img.shields.io/badge/Foundation_Models-000000?style=flat-square&logo=swift&logoColor=white" alt="Foundation Models"><br><img src="https://img.shields.io/badge/Vision_OCR-5856D6?style=flat-square&logo=swift&logoColor=white" alt="Vision OCR"><br><img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code"></td>
   </tr>
   <tr valign="top">
     <td><a href="https://github.com/amierlorenz/skills"><b>skills</b></a></td>
