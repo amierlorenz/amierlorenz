@@ -5,10 +5,10 @@
 
 **CS: AI/ML Student @ Hampton University[^1][^2]**
 
+#### Building apps & Claude Code tools by day ☼ teaching Swift by night ☾
+
 [![Follow on GitHub](https://img.shields.io/github/followers/amierlorenz?label=Follow&style=social)](https://github.com/amierlorenz)
 [![Book a chat](https://img.shields.io/badge/-Book_a_chat-4285F4?style=flat-square&logo=googlecalendar&logoColor=white)](https://calendar.app.google/cnMKfDF11F9o77mK7)
-
-### AboutMe.swift
 
 ```swift
 struct Amier: Student, Builder, Teacher, Mentor {
@@ -18,84 +18,19 @@ struct Amier: Student, Builder, Teacher, Mentor {
         graduating: .spring(2028),
         gpa: 3.9
     )
-
-    var currentlyWorkingOn: [Project] = [
-        .course(
-            "CodePath AI301",
-            goal: .firstOpenSourcePR(repo: "codepath/pathreview"),
-            building: .claudeCodeSkills([
-                // skills to assist in making contributions to Open Source
-                "issue-select",
-                "repro-check",
-                "plan-check",
-                "pr-precheck",
-            ])
-        ),
-        .app(
-            "MieracleStudy",
-            platforms: [.iPhone, .mac],
-            features: [
-                .spacedRepetition(.sm2),
-                .onDeviceAIGrading,
-                .canvasIntegration,
-            ]
-        ),
-    ]
-
-    let experience: [Role] = [
-        Role(
-            "Research Assistant",
-            at: "Hampton University",
-            program: "Google REACH",
-            project: "SafeGenAI",
-            researching: [.genAISecurity, .misinformation, .privacy, .bias],
-            building: [.riskFramework, .safeguardMatrix, .communityWorkshops],
-            when: .fall(2026) ... .now
-        ),
-        Role(
-            "Associate Software Developer Intern",
-            at: "Google",
-            team: "Android XR",
-            built: .aiPoweredUserJourneys(
-                count: 2,
-                extending: .glassesPhotography
-            ),
-            used: [.java, .kotlin, .jetpackCompose, .aiAssistedCoding],
-            demoedTo: [.directors, .seniorEngineeringManagers],
-            wrote: [.designDocs, .implementationDocs],
-            when: .summer(2025)
-        ),
-    ]
-
-    let community: [Role] = [
-        Role(
-            "HECSA Swift Outreach Scholar",
-            at: "Hampton University",
-            teaching: .swift,
-            to: [.k12, .undergrad, .grad, .staff, .community],
-            when: .fall(2026) ... .now
-        ),
-        Role(
-            "President-in-training",
-            at: ("ACM", chapter: .hamptonUniversity),
-            when: .fall(2026) ... .now
-        ),
-        Role(
-            "Teaching Assistant",
-            at: "Hampton University",
-            classes: ["Computer Programming I", "Computer Programming II"],
-            students: 50...,
-            when: .fall(2025) ... .spring(2026)
-        ),
-    ]
-
-    let honors: Set<Honor> = [
-        .hackathon(place: 1, event: "ADMI AI Conference", year: 2026),
-        .fullRideScholarship,
-        .deansList,
-    ]
+    var building = [.apps(for: [.iPhone, .mac]), .claudeCodeTools]
+    var teaching = Language.swift
 }
 ```
+
+- 🔨 Building [**git-workflow**](https://github.com/amierlorenz/git-workflow), a Claude Code plugin that picks a git workflow per repo and enforces it with a hook on every commit, push & PR `now`
+- 🌱 Taking **CodePath AI301**, learning how to make my first real open-source PR with [Claude Code skills I'm writing](https://github.com/amierlorenz/ai301-coursework/tree/main/tools) `now`
+- 🧑‍🏫 With **HECSA Swift Outreach**: teaching Swift to K-12, undergrad, staff & community `fall '26 → now`
+- 🖥️ ACM President-in-training at HU `fall '26 → now`
+- 🔬 **Research Assistant** on SafeGenAI (Google REACH) at HU: researching GenAI security, misinformation, privacy & bias; building a risk framework, safeguard matrix & community workshops for non-technical audiences `fall '26 → now`
+- 👓 **SWE intern on Google's Android XR** team: built 2 AI-powered user journeys extending glasses photography in Java, Kotlin & Jetpack Compose with AI-assisted coding; wrote design & implementation docs; demoed to directors & senior engineering managers `summer '25`
+- 📚 **TA** for Programming I & II, 50+ students `fall '25 → spring '26`
+- 🏆 1st place, ADMI AI Conference hackathon '26 · Full-ride scholarship · Dean's List · 3.9 GPA
 
 <div align="center">
 
