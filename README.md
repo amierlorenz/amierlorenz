@@ -1,8 +1,7 @@
 ## Hi, I'm Amier Lorenz Davis 👋
 
-<!-- TODO(issue): add headshot. Drop it in this repo as headshot.jpg, then uncomment:
-<img align="right" src="headshot.jpg" width="200" alt="Amier Davis">
--->
+<!-- Placeholder until the headshot lands (issue #1): swap for assets/headshot.jpg, width="200", alt="Amier Davis". -->
+<img align="right" src="assets/deejay_animation.gif" width="140" alt="Pixel-art DJ scratching records">
 
 **CS: AI/ML Student @ Hampton University[^1][^2]**
 
@@ -147,8 +146,11 @@ Reach me at the email on [my GitHub profile](https://github.com/amierlorenz) or 
 
 [![Book a 30-min chat](https://img.shields.io/badge/Book_a_30--min_chat-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendar.app.google/cnMKfDF11F9o77mK7)
 
+<sub>🎧[^4]</sub>
+
 :wq
 
 [^1]: Class of '28
 [^2]: The real HU
 [^3]: Rebuilt daily from my repos' topics by a [GitHub Action](https://github.com/amierlorenz/amierlorenz/blob/main/.github/workflows/tech-badges.yml).
+[^4]: DJ animation from the GeoCities site *record4record*, preserved by the [Internet Archive](https://web.archive.org/web/20090901175553/http://www.geocities.com/record4record/deejay_animation.gif).
